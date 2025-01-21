@@ -1,0 +1,61 @@
+
+
+Game Overview
+
+Spacewar: A singleplayer space combat game where players control spaceships and engage in dogfights.
+
+Functional Requirements
+
+Game Modes
+
+1. Single Player: Play against AI-controlled opponents.
+
+Game Mechanics
+
+1. Spaceship Movement: Players can move their spaceships using keyboard or controller inputs.
+2. Shooting: Players can shoot projectiles at opponents.
+3. Collision Detection: Spaceships and projectiles collide with each other and the game environment.
+4. Scoring: Players earn points for destroying opponents' spaceships.
+
+Game Environment
+
+1. Asteroids: Asteroids are scattered throughout the game environment, posing a hazard to spaceships.
+2. Power-Ups: Power-ups, such as shields and speed boosts, are available for players to collect.
+
+User Interface
+
+1. Game Menu: A menu system allows players to select game modes, options, and exit the game.
+2. In-Game HUD: A heads-up display shows players' scores, health, and other relevant information.
+3. Audio Feedback: Sound effects and music enhance the gaming experience.
+
+Non-Functional Requirements
+
+Performance
+
+1. Frame Rate: The game maintains a minimum frame rate of 60 FPS.
+2. Load Times: The game loads within 10 seconds.
+
+Security
+
+1. Data Encryption: Player data, such as scores and game progress, is encrypted for secure storage.
+2. Authentication: Players are authenticated before joining online.
+
+Usability
+
+1. Intuitive Controls: The game's controls are intuitive and easy to use.
+2. Clear Instructions: The game provides clear instructions and tutorials for new players.
+
+Software
+
+1. Operating System: Windows 10 (64-bit) or macOS High Sierra (or later)
+2. DirectX: Version 12 (or later)
+
+Test Cases
+
+1. Gameplay: Test gameplay mechanics, such as spaceship movement and shooting.
+2. Performance: Test the game's performance, including frame rate and load times.
+
+Test Environment
+
+1. Test Hardware: Test the game on a variety of hardware configurations, including low-end and high-end systems.
+2. Test Software: Test the game on different operating systems and software configurations.
